@@ -27,77 +27,77 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_67 = function() {
+(lib.CachedBmp_87 = function() {
 	this.initialize(ss["BECU_raf_160x600_atlas_1"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_66 = function() {
+(lib.CachedBmp_100 = function() {
 	this.initialize(ss["BECU_raf_160x600_atlas_1"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_65 = function() {
+(lib.CachedBmp_99 = function() {
 	this.initialize(ss["BECU_raf_160x600_atlas_1"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_64 = function() {
+(lib.CachedBmp_86 = function() {
 	this.initialize(ss["BECU_raf_160x600_atlas_1"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_63 = function() {
+(lib.CachedBmp_85 = function() {
 	this.initialize(ss["BECU_raf_160x600_atlas_1"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_62 = function() {
+(lib.CachedBmp_84 = function() {
 	this.initialize(ss["BECU_raf_160x600_atlas_1"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_61 = function() {
+(lib.CachedBmp_83 = function() {
 	this.initialize(ss["BECU_raf_160x600_atlas_1"]);
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_60 = function() {
+(lib.CachedBmp_82 = function() {
 	this.initialize(ss["BECU_raf_160x600_atlas_1"]);
 	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_59 = function() {
+(lib.CachedBmp_81 = function() {
 	this.initialize(ss["BECU_raf_160x600_atlas_1"]);
 	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_58 = function() {
+(lib.CachedBmp_80 = function() {
 	this.initialize(ss["BECU_raf_160x600_atlas_1"]);
 	this.gotoAndStop(9);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_57 = function() {
+(lib.CachedBmp_79 = function() {
 	this.initialize(ss["BECU_raf_160x600_atlas_1"]);
 	this.gotoAndStop(10);
 }).prototype = p = new cjs.Sprite();
@@ -156,7 +156,7 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// insured by NCUA.ai
-	this.instance = new lib.CachedBmp_67();
+	this.instance = new lib.CachedBmp_87();
 	this.instance.setTransform(-1.05,0,0.5,0.5);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
@@ -179,7 +179,7 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// dollar up.ai
-	this.instance = new lib.CachedBmp_66();
+	this.instance = new lib.CachedBmp_100();
 	this.instance.setTransform(0,0,0.4257,0.4257);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
@@ -202,7 +202,7 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// dollar down.ai
-	this.instance = new lib.CachedBmp_65();
+	this.instance = new lib.CachedBmp_99();
 	this.instance.setTransform(0,0,0.417,0.417);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
@@ -225,7 +225,7 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// CTA_learn more.ai
-	this.instance = new lib.CachedBmp_64();
+	this.instance = new lib.CachedBmp_86();
 	this.instance.setTransform(0.05,0,0.4673,0.4673);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
@@ -270,7 +270,7 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// BECU-Logo-Horizontal-rgb.eps
-	this.instance = new lib.CachedBmp_63();
+	this.instance = new lib.CachedBmp_85();
 	this.instance.setTransform(0,0,0.5,0.5);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
@@ -293,7 +293,7 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// 100 you.ai
-	this.instance = new lib.CachedBmp_62();
+	this.instance = new lib.CachedBmp_84();
 	this.instance.setTransform(0,0,0.4667,0.4667);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
@@ -316,7 +316,7 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// 100 friend.ai
-	this.instance = new lib.CachedBmp_61();
+	this.instance = new lib.CachedBmp_83();
 	this.instance.setTransform(0,0,0.4667,0.4667);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
@@ -339,16 +339,16 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// 22_Refer_A_Friend_Logo_RGB_209.42.46_V3-Web Banners.ai
-	this.instance = new lib.CachedBmp_60();
+	this.instance = new lib.CachedBmp_82();
 	this.instance.setTransform(38.35,131,0.5,0.5);
 
-	this.instance_1 = new lib.CachedBmp_59();
+	this.instance_1 = new lib.CachedBmp_81();
 	this.instance_1.setTransform(0,22.1,0.5,0.5);
 
-	this.instance_2 = new lib.CachedBmp_58();
+	this.instance_2 = new lib.CachedBmp_80();
 	this.instance_2.setTransform(12.15,82.1,0.5,0.5);
 
-	this.instance_3 = new lib.CachedBmp_57();
+	this.instance_3 = new lib.CachedBmp_79();
 	this.instance_3.setTransform(0.6,24.05,0.5,0.5);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_3},{t:this.instance_2},{t:this.instance_1},{t:this.instance}]}).wait(1));
@@ -665,6 +665,33 @@ if (reversed == null) { reversed = false; }
 	props.reversed = reversed;
 	cjs.MovieClip.apply(this,[props]);
 
+	this.actionFrames = [0,448];
+	// timeline functions:
+	this.frame_0 = function() {
+		//if(!this.alreadyyExecuted){
+		//this.alreadyyExecuted=true;
+		//	this.clickthru_btn.on("click", function(evt){
+		//  window.open(clickTag, "_blank");
+		//});
+		//} else {
+		//gotoAndPlay(2);
+		//}
+	}
+	this.frame_448 = function() {
+		//if(!this.alreadyExecuted){
+		//this.alreadyExecuted=true;
+		//this.loopNum=1;
+		//} else {
+		//this.loopNum++;
+		//if(this.loopNum==2){
+		this.stop();
+		//}
+		//}
+	}
+
+	// actions tween:
+	this.timeline.addTween(cjs.Tween.get(this).call(this.frame_0).wait(448).call(this.frame_448).wait(1));
+
 	// border
 	this.shape = new cjs.Shape();
 	this.shape.graphics.f().s("#000000").ss(1,1,1).p("EgMaguyIY1AAMAAABdlI41AAg");
@@ -771,7 +798,7 @@ lib.properties = {
 	color: "#999999",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/BECU_raf_160x600_atlas_1.png?1671390593958", id:"BECU_raf_160x600_atlas_1"}
+		{src:"images/BECU_raf_160x600_atlas_1.png?1671407153802", id:"BECU_raf_160x600_atlas_1"}
 	],
 	preloads: []
 };
