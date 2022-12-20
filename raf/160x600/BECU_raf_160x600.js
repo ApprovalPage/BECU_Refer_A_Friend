@@ -27,77 +27,77 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_87 = function() {
+(lib.CachedBmp_75 = function() {
 	this.initialize(ss["BECU_raf_160x600_atlas_1"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_100 = function() {
+(lib.CachedBmp_74 = function() {
 	this.initialize(ss["BECU_raf_160x600_atlas_1"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_99 = function() {
+(lib.CachedBmp_73 = function() {
 	this.initialize(ss["BECU_raf_160x600_atlas_1"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_86 = function() {
+(lib.CachedBmp_72 = function() {
 	this.initialize(ss["BECU_raf_160x600_atlas_1"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_85 = function() {
+(lib.CachedBmp_71 = function() {
 	this.initialize(ss["BECU_raf_160x600_atlas_1"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_84 = function() {
+(lib.CachedBmp_70 = function() {
 	this.initialize(ss["BECU_raf_160x600_atlas_1"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_83 = function() {
+(lib.CachedBmp_69 = function() {
 	this.initialize(ss["BECU_raf_160x600_atlas_1"]);
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_82 = function() {
+(lib.CachedBmp_68 = function() {
 	this.initialize(ss["BECU_raf_160x600_atlas_1"]);
 	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_81 = function() {
+(lib.CachedBmp_67 = function() {
 	this.initialize(ss["BECU_raf_160x600_atlas_1"]);
 	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_80 = function() {
+(lib.CachedBmp_66 = function() {
 	this.initialize(ss["BECU_raf_160x600_atlas_1"]);
 	this.gotoAndStop(9);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_79 = function() {
+(lib.CachedBmp_65 = function() {
 	this.initialize(ss["BECU_raf_160x600_atlas_1"]);
 	this.gotoAndStop(10);
 }).prototype = p = new cjs.Sprite();
@@ -156,7 +156,7 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// insured by NCUA.ai
-	this.instance = new lib.CachedBmp_87();
+	this.instance = new lib.CachedBmp_75();
 	this.instance.setTransform(-1.05,0,0.5,0.5);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
@@ -179,7 +179,7 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// dollar up.ai
-	this.instance = new lib.CachedBmp_100();
+	this.instance = new lib.CachedBmp_74();
 	this.instance.setTransform(0,0,0.4257,0.4257);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
@@ -202,7 +202,7 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// dollar down.ai
-	this.instance = new lib.CachedBmp_99();
+	this.instance = new lib.CachedBmp_73();
 	this.instance.setTransform(0,0,0.417,0.417);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
@@ -225,7 +225,7 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// CTA_learn more.ai
-	this.instance = new lib.CachedBmp_86();
+	this.instance = new lib.CachedBmp_72();
 	this.instance.setTransform(0.05,0,0.4673,0.4673);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
@@ -270,7 +270,7 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// BECU-Logo-Horizontal-rgb.eps
-	this.instance = new lib.CachedBmp_85();
+	this.instance = new lib.CachedBmp_71();
 	this.instance.setTransform(0,0,0.5,0.5);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
@@ -293,7 +293,7 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// 100 you.ai
-	this.instance = new lib.CachedBmp_84();
+	this.instance = new lib.CachedBmp_70();
 	this.instance.setTransform(0,0,0.4667,0.4667);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
@@ -316,7 +316,7 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// 100 friend.ai
-	this.instance = new lib.CachedBmp_83();
+	this.instance = new lib.CachedBmp_69();
 	this.instance.setTransform(0,0,0.4667,0.4667);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
@@ -339,16 +339,16 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// 22_Refer_A_Friend_Logo_RGB_209.42.46_V3-Web Banners.ai
-	this.instance = new lib.CachedBmp_82();
+	this.instance = new lib.CachedBmp_68();
 	this.instance.setTransform(38.35,131,0.5,0.5);
 
-	this.instance_1 = new lib.CachedBmp_81();
+	this.instance_1 = new lib.CachedBmp_67();
 	this.instance_1.setTransform(0,22.1,0.5,0.5);
 
-	this.instance_2 = new lib.CachedBmp_80();
+	this.instance_2 = new lib.CachedBmp_66();
 	this.instance_2.setTransform(12.15,82.1,0.5,0.5);
 
-	this.instance_3 = new lib.CachedBmp_79();
+	this.instance_3 = new lib.CachedBmp_65();
 	this.instance_3.setTransform(0.6,24.05,0.5,0.5);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_3},{t:this.instance_2},{t:this.instance_1},{t:this.instance}]}).wait(1));
@@ -760,7 +760,7 @@ if (reversed == null) { reversed = false; }
 
 	// radiator
 	this.instance_8 = new lib.radiator();
-	this.instance_8.setTransform(80,227,0.714,0.714);
+	this.instance_8.setTransform(80.05,227.05,0.95,0.95,0,0,0,0.1,0.1);
 	this.instance_8.alpha = 0.1602;
 	this.instance_8._off = true;
 
@@ -798,7 +798,7 @@ lib.properties = {
 	color: "#999999",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/BECU_raf_160x600_atlas_1.png?1671407153802", id:"BECU_raf_160x600_atlas_1"}
+		{src:"images/BECU_raf_160x600_atlas_1.png?1671573221670", id:"BECU_raf_160x600_atlas_1"}
 	],
 	preloads: []
 };
