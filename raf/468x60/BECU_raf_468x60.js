@@ -27,77 +27,77 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_54 = function() {
+(lib.CachedBmp_29 = function() {
 	this.initialize(ss["BECU_raf_468x60_atlas_1"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_56 = function() {
+(lib.CachedBmp_28 = function() {
 	this.initialize(ss["BECU_raf_468x60_atlas_1"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_55 = function() {
+(lib.CachedBmp_27 = function() {
 	this.initialize(ss["BECU_raf_468x60_atlas_1"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_53 = function() {
+(lib.CachedBmp_26 = function() {
 	this.initialize(ss["BECU_raf_468x60_atlas_1"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_52 = function() {
+(lib.CachedBmp_25 = function() {
 	this.initialize(ss["BECU_raf_468x60_atlas_1"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_51 = function() {
+(lib.CachedBmp_24 = function() {
 	this.initialize(ss["BECU_raf_468x60_atlas_1"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_50 = function() {
+(lib.CachedBmp_23 = function() {
 	this.initialize(ss["BECU_raf_468x60_atlas_1"]);
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_49 = function() {
+(lib.CachedBmp_22 = function() {
 	this.initialize(ss["BECU_raf_468x60_atlas_1"]);
 	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_48 = function() {
+(lib.CachedBmp_21 = function() {
 	this.initialize(ss["BECU_raf_468x60_atlas_1"]);
 	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_47 = function() {
+(lib.CachedBmp_20 = function() {
 	this.initialize(ss["BECU_raf_468x60_atlas_1"]);
 	this.gotoAndStop(9);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_46 = function() {
+(lib.CachedBmp_19 = function() {
 	this.initialize(ss["BECU_raf_468x60_atlas_1"]);
 	this.gotoAndStop(10);
 }).prototype = p = new cjs.Sprite();
@@ -156,7 +156,7 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// insured by NCUA.ai
-	this.instance = new lib.CachedBmp_54();
+	this.instance = new lib.CachedBmp_29();
 	this.instance.setTransform(-1.05,0,0.5,0.5);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
@@ -179,7 +179,7 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// dollar up.ai
-	this.instance = new lib.CachedBmp_56();
+	this.instance = new lib.CachedBmp_28();
 	this.instance.setTransform(0,0,0.4257,0.4257);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
@@ -202,7 +202,7 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// dollar down.ai
-	this.instance = new lib.CachedBmp_55();
+	this.instance = new lib.CachedBmp_27();
 	this.instance.setTransform(0,0,0.417,0.417);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
@@ -225,7 +225,7 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// CTA_learn more.ai
-	this.instance = new lib.CachedBmp_53();
+	this.instance = new lib.CachedBmp_26();
 	this.instance.setTransform(0.05,0,0.4673,0.4673);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
@@ -270,7 +270,7 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// BECU-Logo-Horizontal-rgb.eps
-	this.instance = new lib.CachedBmp_52();
+	this.instance = new lib.CachedBmp_25();
 	this.instance.setTransform(0,0,0.5,0.5);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
@@ -293,7 +293,7 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// 100 you.ai
-	this.instance = new lib.CachedBmp_51();
+	this.instance = new lib.CachedBmp_24();
 	this.instance.setTransform(0,0,0.5,0.5);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
@@ -316,7 +316,7 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// 100 friend.ai
-	this.instance = new lib.CachedBmp_50();
+	this.instance = new lib.CachedBmp_23();
 	this.instance.setTransform(6.45,0,0.5,0.5);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
@@ -339,16 +339,16 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// 22_Refer_A_Friend_Logo_RGB_209.42.46_V3-Web Banners.ai
-	this.instance = new lib.CachedBmp_49();
+	this.instance = new lib.CachedBmp_22();
 	this.instance.setTransform(38.35,131,0.5,0.5);
 
-	this.instance_1 = new lib.CachedBmp_48();
+	this.instance_1 = new lib.CachedBmp_21();
 	this.instance_1.setTransform(0,22.1,0.5,0.5);
 
-	this.instance_2 = new lib.CachedBmp_47();
+	this.instance_2 = new lib.CachedBmp_20();
 	this.instance_2.setTransform(12.15,82.1,0.5,0.5);
 
-	this.instance_3 = new lib.CachedBmp_46();
+	this.instance_3 = new lib.CachedBmp_19();
 	this.instance_3.setTransform(0.6,24.05,0.5,0.5);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_3},{t:this.instance_2},{t:this.instance_1},{t:this.instance}]}).wait(1));
@@ -701,14 +701,14 @@ if (reversed == null) { reversed = false; }
 
 	// dollars copy
 	this.instance = new lib.dollarseq();
-	this.instance.setTransform(360.95,30.25,0.6428,0.6428,-20,0,0,0.6,0.6);
+	this.instance.setTransform(330.95,20.25,1,1,-30,0,0,0.6,0.6);
 	this.instance._off = true;
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(5).to({_off:false},0).to({_off:true},87).wait(357));
 
 	// dollars
 	this.instance_1 = new lib.dollarseq();
-	this.instance_1.setTransform(187.35,30.25,0.6428,0.6428,20,0,0,0.6,0.5);
+	this.instance_1.setTransform(157.4,40.3,1,1,30,0,0,0.7,0.5);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_1).to({_off:true},87).wait(362));
 
@@ -800,7 +800,7 @@ lib.properties = {
 	color: "#999999",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/BECU_raf_468x60_atlas_1.png?1671389582900", id:"BECU_raf_468x60_atlas_1"}
+		{src:"images/BECU_raf_468x60_atlas_1.png?1671572400279", id:"BECU_raf_468x60_atlas_1"}
 	],
 	preloads: []
 };
